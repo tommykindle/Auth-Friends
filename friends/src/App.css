@@ -1,0 +1,30 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  padding-bottom: 36px;
+}
+
+ul{
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 0 40px;
+  padding: 15px;
+  box-shadow: 0 2px 4px #5e5e5e
+}
+
+li{
+  list-style: none;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+}
